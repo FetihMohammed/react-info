@@ -10,12 +10,12 @@ export default function Footer(props) {
 		<footer>
 			<small className={props.darkMode ? "" : "darkText"}>
 				<a
-					href="https://github.com/toonchavez8/15-Scrimba_ReacFacts"
+					href="https://github.com/FetihMohammed/react-info"
 					style={{ textDecoration: "none" }}
 				>
 				{" "}
 				© {year} by{" "}
-					toonchavez 
+					Fetih 
 				
                     <img className="gitImg"
                     src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github icon" />
